@@ -2,6 +2,8 @@
 
 [![skills.sh](https://skills.sh/b/mattpocock/skills)](https://skills.sh/mattpocock/skills)
 
+[**🇬🇧 English**](./README.md)
+
 一套面向真正工程实践的 Agent 技能集合——不是 vibe coding，而是扎扎实实的软件工程。
 
 开发真实应用是困难的。GSD、BMAD、Spec-Kit 等方法试图通过掌控整个流程来解决这个问题，但它们在掌控的同时也剥夺了你的控制权，并且让流程中的 bug 难以定位和修复。
